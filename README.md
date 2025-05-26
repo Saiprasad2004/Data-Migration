@@ -55,6 +55,8 @@ Step 1: Setting up MySQL and PostgreSQL Environments Both MySQL and PostgreSQL s
 
 ![Image](https://github.com/user-attachments/assets/cd62c5d8-c039-431d-a1c7-4c69d47deff2)
 
+![Image](https://github.com/user-attachments/assets/cc73f77a-3571-4939-9554-c7be715926d9)
+
 Step 2: Creating & Exporting the MySQL Database A complete export of the source MySQL database is performed using mysqldump.
 
 Image
