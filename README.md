@@ -60,9 +60,13 @@ Step 1: Setting up MySQL and PostgreSQL Environments Both MySQL and PostgreSQL s
 Step 2: Creating & Exporting the MySQL Database A complete export of the source MySQL database is performed using mysqldump.
 
 ![Image](https://github.com/user-attachments/assets/0efe93ee-67f1-40bf-816d-69614424d99e)
+
+
 Step 3: Extracting INSERT Queries The dump file is parsed to separate the INSERT statements for use in PostgreSQL.
 
-Image
+![Image](https://github.com/user-attachments/assets/31e083cd-c402-4256-8c20-f0f3196ba25d)
+
+
 Step 4: Importing Tables into PostgreSQL The converted schema and extracted data are successfully imported into the PostgreSQL target database using psql.
 
 Image
